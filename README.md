@@ -1,4 +1,4 @@
-<h1 align="center">Hi Musketeer</h1>
+<h1 align="center">Hi Everyone 👋, I am Musketeer</h1>
 <h3 align="center">Just a random guy doing things...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musketeerhd&label=Profile%20views&color=0e75b6&style=flat" alt="musketeerhd" /> </p>
@@ -13,7 +13,10 @@
 
 - 📫 How to reach me **ahmadazfadzulfaqar07@gmail.com**
 
-- ⚡ Fun fact **Im a weebs :3**
+- ⚡ Fun fact **I am a gamer, love to edit video clip things, and also i'm a weebs :3**
+
+- ❤️ Love to Streaming and Editing video
+  [You can see my clips and edit in this channel](https://www.youtube.com/channel/UCvW9IDEH2MOBzl12b0cOqyQ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
